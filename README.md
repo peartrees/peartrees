@@ -1,5 +1,5 @@
 ### Hi there 👋
-###　🔭 I’m currently working on ... NLP and Kaggle
+### 🔭 I’m currently working on ... NLP and Kaggle
 ### 🌱 I’m currently learning ... Machine Learning and NLP
 
 <!--
