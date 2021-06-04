@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on NLP and Kaggle
 - 🌱 I’m currently learning NLP and Machine Learning
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dakkenkd/count.svg" />
+</p>
 
 <!--
 **peartrees/peartrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
