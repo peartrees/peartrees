@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... NLP and Kaggle
-- 🌱 I’m currently learning ... Machine Learning and NLP
+- 🔭 I’m currently working on NLP and Kaggle
+- 🌱 I’m currently learning NLP and Machine Learning
 
 <!--
 **peartrees/peartrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
