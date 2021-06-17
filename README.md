@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NLP and Kaggle
-- 🌱 I’m currently learning NLP and Machine Learning
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning ML and NLP
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dakkenkd/count.svg" />
