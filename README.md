@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning ML and NLP
+- 🌱 I’m currently learning web app and data science
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dakkenkd/count.svg" />
