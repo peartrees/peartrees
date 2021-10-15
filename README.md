@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning web app and data science
+<!-- - 🌱 I’m currently learning web app and data science -->
 <p align="center"> 
   Visitor count<br>
 </p>
