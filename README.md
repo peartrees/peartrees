@@ -1,9 +1,8 @@
 ### Hi there 👋
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
-<p align="center"> 
-  Visitor count<br>
-</p>
+I'm student at University Of Hyogo, majoring in Data Science.
+I'm interested in Data Science, especially Information Credibility.
 
 <!--
 **peartrees/peartrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
