@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
-- I'm student at University Of Hyogo, majoring in Data Science.
+- I'm student at University of Hyogo, majoring in Data Science.
 - I'm interested in Data Science, especially in Information Credibility.
 
 <!--
