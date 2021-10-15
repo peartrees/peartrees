@@ -2,7 +2,7 @@
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
 - I'm student at University of Hyogo, majoring in Data Science.
-- I'm interested in Data Science, especially in Information Credibility.
+- I'm interested in Data Science and Information Credibility.
 
 <!--
 **peartrees/peartrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
