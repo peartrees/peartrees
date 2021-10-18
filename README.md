@@ -3,7 +3,7 @@
 <!-- - 🌱 I’m currently learning web app and data science -->
 - I'm student at University of Hyogo, majoring in Data Science.
 - I'm interested in Data Science and Information Credibility.
-- 
+
 [![](https://raw.githubusercontent.com/peartrees/peartrees/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- [![](https://raw.githubusercontent.com/peartrees/peartrees/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 [![](https://raw.githubusercontent.com/peartrees/peartrees/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
