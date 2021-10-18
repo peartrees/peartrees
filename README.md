@@ -2,7 +2,7 @@
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
 - I'm student at University of Hyogo, majoring in Data Science.
-- I'm interested in Data Science and Web.
+<!-- - I'm interested in Data Science and Web. -->
 
 [![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
