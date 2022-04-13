@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
-- I'm student at University of Hyogo
+- student at University of Hyogo
 <!-- - I'm interested in Data Science and Web. -->
 
 [![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
