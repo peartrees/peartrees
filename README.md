@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Here](https://peartrees.github.io/ja/){target="_blank"} is My Blog!
+<a href="https://peartrees.github.io/ja/" target="_blank">Here</a> is My Blog Page！
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
 <!-- - student at University of Tsukuba -->
