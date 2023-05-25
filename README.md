@@ -11,9 +11,9 @@ Thank you for visiting my page!
 I'm writing a <a href="https://peartrees.github.io/ja/" target="_blank">Blog</a>.  
 Recents posts are below（All posts are written in Japanese）.
 
-- [2023/05/25：Using ChatGPT API in Python.](https://peartrees.github.io/ja/2023-05-25-UsingChatGPTbyAPI)
-- [2023/05/03：Making Web Search System using Vue.js + Flask + MySQL.](https://peartrees.github.io/ja/2023-05-03-SearchSystem)
-- [2023/04/16：Using MySQL a little.](https://peartrees.github.io/ja/2023-04-13-StartingMySQL)
+- <a href="https://peartrees.github.io/ja/2023-05-25-UsingChatGPTbyAPI" target="_blank">2023/05/25：Using ChatGPT API in Python.</a>
+- <a href="https://peartrees.github.io/ja/2023-05-03-SearchSystem" target="_blank">2023/05/03：Making Web Search System using Vue.js + Flask + MySQL.</a>
+- <a href="https://peartrees.github.io/ja/2023-04-13-StartingMySQL" target="_blank">2023/04/13：Using MySQL a little.</a>
 
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
