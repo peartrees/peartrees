@@ -1,5 +1,20 @@
-### Hi there 👋
-<a href="https://peartrees.github.io/ja/" target="_blank">Here</a> is My Blog Page！
+### Hi👋
+Thank you for visiting my page!
+
+### Who am I?
+
+- 👦 I'm graduate student at University of Tsukuba.
+- 🌱 I’m majoring in informatics, and particularly interested in information retrieval and interaction.
+
+### My Activity.
+
+I'm writing a <a href="https://peartrees.github.io/ja/" target="_blank">Blog</a>.  
+Recents posts are below（All posts are written in Japanese）.
+
+- [2023/05/25：Using ChatGPT API in Python.](https://peartrees.github.io/ja/2023-05-25-UsingChatGPTbyAPI)
+- [2023/05/03：Making Web Search System using Vue.js + Flask + MySQL.](https://peartrees.github.io/ja/2023-05-03-SearchSystem)
+- [2023/04/16：Using MySQL a little.](https://peartrees.github.io/ja/2023-04-13-StartingMySQL)
+
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning web app and data science -->
 <!-- - student at University of Tsukuba -->
