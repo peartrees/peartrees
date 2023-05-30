@@ -8,7 +8,7 @@ Thank you for visiting my page!
 
 ### My Activity.
 
-I'm writing a <a href="https://peartrees.github.io/ja/" target="_blank">Blog</a>.  
+I'm posting a <a href="https://peartrees.github.io/ja/" target="_blank">Blog</a>.  
 Recents posts are below（All posts are written in Japanese）.
 
 - <a href="https://peartrees.github.io/ja/2023-05-25-UsingChatGPTbyAPI" target="_blank">2023/05/25：Using ChatGPT API in Python.</a>
