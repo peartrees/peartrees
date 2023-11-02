@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
