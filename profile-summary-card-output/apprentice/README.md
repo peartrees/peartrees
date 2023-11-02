@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/apprentice/4-productive-time.svg)
+```
+
+    
