@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/peartrees/peartrees/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
